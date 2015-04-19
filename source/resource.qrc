@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/myresource">
+        <file>background.jpg</file>
+        <file>Music_Player_prototype.pro</file>
+        <file>4.gif</file>
+        <file>background1.jpg</file>
+        <file>del.png</file>
+        <file>facebook.png</file>
+        <file>frame1_color.jpg</file>
+        <file>frame2_color.jpg</file>
+        <file>mute.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>stop.png</file>
+        <file>stop1.png</file>
+        <file>volume.jpg</file>
+    </qresource>
+</RCC>

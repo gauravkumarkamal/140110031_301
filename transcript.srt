@@ -1,0 +1,81 @@
+1
+00:00:00.060 --> 00:00:05.110
+Welcome to the screencast of cs101 project lead by the mentioned team members.
+
+2
+00:00:05.230 --> 00:00:19.190
+You will require Qt 5.4.1 for windows which is available for download on this link.
+Please download this specific version, as we have compiled and built our entire project
+on this, and not yet tested on Qt available for other platforms due to time constraints.
+
+3
+00:00:26.210 --> 00:00:31.280
+Just follow these steps to install the Qt 5.4.1 on your machine.
+
+4.
+00:01:12.220 --> 00:01:17.280
+After getting done with the installation of Qt, download the source code on your machine at any preferred location.
+
+5.
+00:01:20.000 --> 00:01:27.170
+Open Qt and go to file to open and browse to the directory where you have stored the source code.
+Now click on the Music_player_prototype.pro file.
+
+6.
+00:01:33.310 --> 00:01:37.290
+At first it will ask you to configure the user files of the project.
+So go on and click on configure project.
+
+7.
+00:01:59.000 --> 00:02:02.000
+To run the project select the Debug mode, and click on the 
+run button.
+
+8.
+00:02:04.000 --> 00:02:06.110
+Now it will start building the project as you can see. 
+
+9.
+00:02:34.230 --> 00:02:38.040
+A seperate folder is created here, where your build files are stored.
+
+10.
+00:02:57.020 --> 00:02:59.160
+You can add songs to the playlist using the add button.
+
+11.
+00:03:17.210 --> 00:03:22.050
+Double clicking on the music file displays the duration of the song, and sets volume to maximum.
+
+12.
+00:03:27.260 --> 00:03:31.140
+You can pause ,stop or mute the music anytime using these buttons.
+
+13.
+00:03:53.070 --> 00:03:56.040
+There is also an option to set the playback rate of music.
+
+14.
+00:04:22.250 --> 00:04:28.020
+There are other features like next,previous,loop and shuffle
+which can be activated using these buttons.
+
+15.
+00:03:39.110 --> 00:04:45.010
+You can check whether the loop is ON or OFF by watching the colour of Loop button going red and green respectively.
+
+16.
+00:06:29.030 --> 00:06:30.110
+ Songs can also be deleted from the playlist.
+
+17.
+00:06:35.290 --> 00:06:39.230
+ And then the playlist can be saved.............. later it can be loaded back.
+
+18.
+00:06:45.230 --> 00:06:47.230
+Thats it.
+Thankyou for watching.
+
+
+
